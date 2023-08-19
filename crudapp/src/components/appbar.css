@@ -1,0 +1,27 @@
+.nav_bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    background: currentColor;
+
+}
+.logo{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 300px;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    font-weight: 800;
+}
+.search_bar>input{
+    border: 2px solid red;
+    width: 40vw;
+    margin-right: 0px;
+    border-radius: 20px;
+    height: 40px;
+    align-items: center;
+    padding-left: 10px;
+
+}
